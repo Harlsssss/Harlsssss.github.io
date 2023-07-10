@@ -1,0 +1,20 @@
+body {
+    background-color:  rgb(255, 234, 237);
+}
+
+.header, .greetings, .firstPicture, .two{
+    display: flex;
+    justify-content: center;
+}
+
+.p1, .p2 {
+    margin-left: 10px;
+}
+
+.story {
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
